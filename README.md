@@ -59,3 +59,6 @@ Alternatively, you could use "/my_image.html". This is an absolute path. The lea
 At this point, you're ready to learn the nitty gritty of HTML. I strongly recommend w3schools. [Check out their HTML tutorial](https://www.w3schools.com/html/)
 
 ## CSS
+CSS is Cascading Style Sheets. Like HTML, they're just text. Unlike HTML, it is not a markup language, and it focuses on the visual representation of things rather than the structure. Using CSS, you can make buttons change color when you hover over them, change fonts, position and size things on the screen, and even animate things.
+
+So... I started to go over CSS selectors and realized there were some things I forgot. I tried to lookup a reference and came across W3 Schools again. I went through their tutorial, and it's probably better than what I would have written. So in the interest of time, [just start with their tutorial](https://www.w3schools.com/css/default.asp).
